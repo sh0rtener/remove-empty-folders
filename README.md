@@ -6,7 +6,7 @@ This repository is a bat file to delete empty folders in the directory
 
 To clean directory, you should use:
 ```
-.\remove-empty-folders.bat [path-to-folder]
+.\remove-empty-folders.bat [absolute-path-to-folder]
 ```
 If you want to clean from C:\, you should use:
 
