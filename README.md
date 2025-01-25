@@ -8,7 +8,7 @@ To clean directory, you should use:
 ```
 .\remove-empty-folders.bat [absolute-path-to-folder]
 ```
-If you want to clean from C:\, you should use:
+If you want to clean from root, you should use:
 
 ```
 .\remove-empty-folders.bat --force
