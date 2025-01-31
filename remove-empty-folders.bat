@@ -24,7 +24,7 @@ for /d %%d in (%absPath%\*) do (
 
     if "!count!"=="0" (
         echo removed folder: %%d\* !count!
-        rmdir %cd%\%%d\
+        rmdir %%d\
     )
 )
 endlocal
